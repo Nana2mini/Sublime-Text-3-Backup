@@ -1,0 +1,13 @@
+{
+	"convert_dst_bin": "'B{0:b}'",
+	"convert_dst_exp": "EX",
+	"convert_dst_hex": "'H{0:X}'",
+	"convert_src_bin": "'B([01]+)'",
+	"convert_src_exp": "\\b([1-9]\\.\\d+)EX([-+]?\\d+)\\b",
+	"convert_src_hex": "'H([0-9A-F]+)'",
+	"default_encoding": "ASCII",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "Western (Windows 1252)",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": false
+}

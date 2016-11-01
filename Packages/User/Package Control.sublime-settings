@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CNC SINUMERIK 840D language support",
+		"CSS Format",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"JsFormat",
+		"Monokai - Spacegray",
+		"Package Control",
+		"SublimeREPL"
+	]
+}

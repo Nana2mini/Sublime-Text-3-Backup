@@ -1,0 +1,19 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray Eighties.tmTheme",
+	"draw_minimap_border": true,
+	"font_face": "YaHei Consolas Hybrid",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Toggle Css Format"
+	],
+	"save_on_focus_lost": true,
+	"update_check": false,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": false,
+	
+	// The number of spaces a tab is considered equal to  
+	
+}
